@@ -5,10 +5,11 @@
 - 😊&emsp;I want to a Front-End Developer.<br><br>
 
 🌱 I’m currently learning ... <br><br>
-## 💬 &nbsp; Contact Me ... 
- <a href="mailto:dahae68@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+💬 &nbsp; About Me ... <br>
 
 <div align="center">
+ 
+ <a href="mailto:dahae68@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 
  <a href="https://velog.io/@dahye-program" target="_blank"><img src="https://img.shields.io/badge/Velog-03C75A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <br><br>
