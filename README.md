@@ -2,9 +2,8 @@
 
 - 👩🏻‍💻&emsp;Student Developer Interested in Web.
 - 👩🏻‍🎓&emsp;Graduated Department of Computer Software Engineering in SCH Univ.
-- 😊&emsp;I want to a Front-End Developer.<br><br>
+- 😊&emsp;I want to be a Front-End Developer.<br><br>
 
-🌱 I’m currently learning ... <br><br>
 💬 &nbsp; About Me ... <br>
 
 <div align="center">
