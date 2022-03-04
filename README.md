@@ -3,9 +3,6 @@
 - 👩🏻‍💻&emsp;Student Developer Interested in Web.
 - 👩🏻‍🎓&emsp;Graduated Department of Computer Software Engineering in SCH Univ.
 - 😊&emsp;I want to be a Front-End Developer.<br><br>
-
-💬 &nbsp; About Me ... <br>
-
 <div align="center">
  
  <a href="mailto:dahae68@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
