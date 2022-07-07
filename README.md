@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-👩🏻‍💻&emsp;Student Developer Interested in Web.<br>
+👩🏻‍💻&emsp;Junior Frontend Engineer Interested in Web.<br> 
 👩🏻‍🎓&emsp;Graduated Department of Computer Software Engineering in SCH Univ.<br>
-😊&emsp;I want to be a Front-End Developer.<br>
+😊&emsp;I work for an Educational Technology Company.<br>
 
 <div align="center">
 
